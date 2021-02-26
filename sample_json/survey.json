@@ -1,0 +1,421 @@
+[
+  {
+    "page_number": 1,
+    "comment": null,
+    "validation":true,
+    "directory":null,
+    "number_survey": null,
+    "valid_number_survey":true,
+    "questions": [
+      {
+        "question_text": "Ваш пол?",
+        "valid": true,
+        "answers": [
+          {
+            "answer_text": "Муж.",
+            "answer_position": {
+              "x": 89,
+              "y": 198
+            }
+          },
+          {
+            "answer_text": "Жен.",
+            "answer_position": {
+              "x": 197,
+              "y": 198
+            }
+          }
+        ]
+      },
+      {
+        "question_text": "Ваш возраст?",
+        "valid": true,
+        "answers": [
+          {
+            "answer_text": "до 18 лет",
+            "answer_position": {
+              "x": 105,
+              "y": 248
+            }
+          },
+          {
+            "answer_text": "с 18 до 39 лет",
+            "answer_position": {
+              "x": 313,
+              "y": 248
+            }
+          },
+          {
+            "answer_text": "с 40 до 55",
+            "answer_position": {
+              "x": 523,
+              "y": 248
+            }
+          },
+          {
+            "answer_text": "с 56 до 69 лет",
+            "answer_position": {
+              "x": 105,
+              "y": 271
+            }
+          },
+          {
+            "answer_text": "70 и более лет",
+            "answer_position": {
+              "x": 313,
+              "y": 271
+            }
+          }
+        ]
+      },
+      {
+        "question_text": "Имели ли Вы постоянный профессиональный контакт:",
+        "valid": true,
+        "answers": [
+          {
+            "answer_text": "с асбестом, бериллием, кадмием, никелем, свинцом, другими тяжелыми металлами и их соединениями",
+            "answer_position": {
+              "x": 89,
+              "y": 373
+            }
+          },
+          {
+            "answer_text": "с органическими химическими веществами",
+            "answer_position": {
+              "x": 89,
+              "y": 412
+            }
+          },
+          {
+            "answer_text": "с радиоактивными веществами (особенно Радоном) и излучением",
+            "answer_position": {
+              "x": 89,
+              "y": 435
+            }
+          },
+          {
+            "answer_text": "с пылью в высокой концентрации любого происхождения",
+            "answer_position": {
+              "x": 89,
+              "y": 458
+            }
+          }
+        ]
+      },
+      {
+        "question_text": "Вы курите?",
+        "valid": true,
+        "answers": [
+          {
+            "answer_text": "Нет",
+            "answer_position": {
+              "x": 89,
+              "y": 579
+            }
+          },
+          {
+            "answer_text": "Да",
+            "answer_position": {
+              "x": 89,
+              "y": 602
+            }
+          },
+          {
+            "answer_text": "курил ранее, но бросил менее 10 лет назад",
+            "answer_position": {
+              "x": 390,
+              "y": 580
+            }
+          },
+          {
+            "answer_text": "курил ранее, но бросил 10-20 лет назад",
+            "answer_position": {
+              "x": 390,
+              "y": 602
+            }
+          },
+          {
+            "answer_text": "курил ранее, но бросил более 20 лет назад",
+            "answer_position": {
+              "x": 390,
+              "y": 624
+            }
+          }
+        ]
+      },
+      {
+        "question_text": "Сколько лет вы курите?",
+        "valid": true,
+        "answers": [
+          {
+            "answer_text": "до 5 лет",
+            "answer_position": {
+              "x": 89,
+              "y": 696
+            }
+          },
+          {
+            "answer_text": "от 15 до 30 лет",
+            "answer_position": {
+              "x": 355,
+              "y": 696
+            }
+          },
+          {
+            "answer_text": "более 30 лет",
+            "answer_position": {
+              "x": 620,
+              "y": 697
+            }
+          }
+        ]
+      },
+      {
+        "question_text": "Сколько сигарет в день Вы выкуриваете?",
+        "valid": true,
+        "answers": [
+          {
+            "answer_text": "не более 10 шт.",
+            "answer_position": {
+              "x": 89,
+              "y": 767
+            }
+          },
+          {
+            "answer_text": "от 10 до 15 шт.",
+            "answer_position": {
+              "x": 360,
+              "y": 768
+            }
+          },
+          {
+            "answer_text": "более 15 шт.",
+            "answer_position": {
+              "x": 631,
+              "y": 768
+            }
+          }
+        ]
+      },
+      {
+        "question_text": "Курят ли в Вашем окружении (дома, на работе и т.п.)?",
+        "valid": true,
+        "answers": [
+          {
+            "answer_text": "Да",
+            "answer_position": {
+              "x": 89,
+              "y": 819
+            }
+          },
+          {
+            "answer_text": "Нет",
+            "answer_position": {
+              "x": 277,
+              "y": 819
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "page_number": 2,
+    "number_survey": null,
+    "comment":null,
+    "validation":true,
+    "directory":null,
+    "questions": [
+      {
+        "question_text": "Наблюдается ли необъяснимая потеря более чем 10% массы тела в течение полугода?",
+        "valid": true,
+        "answers": [
+          {
+            "answer_text": "Нет",
+            "answer_position": {
+              "x": 84,
+              "y": 103
+            }
+          },
+          {
+            "answer_text": "Да",
+            "answer_position": {
+              "x": 209,
+              "y": 103
+            }
+          }
+        ]
+      },
+      {
+        "question_text": "Отмечается ли у Вас один из симптомов?",
+        "valid": true,
+        "answers": [
+          {
+            "answer_text": "появление или изменение характера кашля",
+            "answer_position": {
+              "x": 84,
+              "y": 153
+            }
+          },
+          {
+            "answer_text": "изменение цвета кожных покровов лица и шеи",
+            "answer_position": {
+              "x": 535,
+              "y": 152
+            }
+          },
+          {
+            "answer_text": "одышка",
+            "answer_position": {
+              "x": 85,
+              "y": 191
+            }
+          },
+          {
+            "answer_text": "осиплость голоса",
+            "answer_position": {
+              "x": 535,
+              "y": 191
+            }
+          },
+          {
+            "answer_text": "боль в грудной клетке при дыхании",
+            "answer_position": {
+              "x": 84,
+              "y": 223
+            }
+          },
+          {
+            "answer_text": "одутловатость лица, набухание вен лица и шеи",
+            "answer_position": {
+              "x": 535,
+              "y": 213
+            }
+          },
+          {
+            "answer_text": "мокрота с примесью крови («ржавая» мокрота, прожилки крови) или кровохарканье",
+            "answer_position": {
+              "x": 84,
+              "y": 252
+            }
+          }
+        ]
+      },
+      {
+        "question_text": "В течение последнего года выполнялась ли Вам рентгеновское исследование легких?",
+        "valid": true,
+        "answers": [
+          {
+            "answer_text": "Нет",
+            "answer_position": {
+              "x": 83,
+              "y": 409
+            }
+          },
+          {
+            "answer_text": "только флюорография",
+            "answer_position": {
+              "x": 506,
+              "y": 408
+            }
+          },
+          {
+            "answer_text": "только КТ грудной клетки",
+            "answer_position": {
+              "x": 84,
+              "y": 430
+            }
+          },
+          {
+            "answer_text": "КТ других областей отличных от легких",
+            "answer_position": {
+              "x": 506,
+              "y": 431
+            }
+          }
+        ]
+      },
+      {
+        "question_text": "Болели ли Вы онкологическими заболеваниями?",
+        "valid": true,
+        "answers": [
+          {
+            "answer_text": "нет, никогда",
+            "answer_position": {
+              "x": 83,
+              "y": 481
+            }
+          },
+          {
+            "answer_text": "да, выздоровел и был снят с учета",
+            "answer_position": {
+              "x": 83,
+              "y": 504
+            }
+          },
+          {
+            "answer_text": "да, состою на учете в онкологическом диспансере",
+            "answer_position": {
+              "x": 83,
+              "y": 525
+            }
+          }
+        ]
+      },
+      {
+        "question_text": "Болели ли онкологическими заболеваниями ваши родители и другие ближайшие родственники?",
+        "valid": true,
+        "answers": [
+          {
+            "answer_text": "да, опухолями легких",
+            "answer_position": {
+              "x": 83,
+              "y": 592
+            }
+          },
+          {
+            "answer_text": "злокачественными заболеваниями других органов",
+            "answer_position": {
+              "x": 83,
+              "y": 614
+            }
+          },
+          {
+            "answer_text": "нет или не знаю",
+            "answer_position": {
+              "x": 83,
+              "y": 636
+            }
+          }
+        ]
+      },
+      {
+        "question_text": "Имеются ли у Вас хронические заболевания?",
+        "valid": true,
+        "answers": [
+          {
+            "answer_text": "органов дыхания (хронический бронхит, бронхиальная астма, асбестоз, ХОБЛ, хр. пневмония, туберкулез и др.)",
+            "answer_position": {
+              "x": 83,
+              "y": 687
+            }
+          },
+          {
+            "answer_text": "врожденные или приобретенные заболевания иммунной системы",
+            "answer_position": {
+              "x": 83,
+              "y": 726
+            }
+          },
+          {
+            "answer_text": "прочие длительно текущие заболевания, требующие постоянного лечения",
+            "answer_position": {
+              "x": 83,
+              "y": 748
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
